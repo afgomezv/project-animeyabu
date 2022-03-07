@@ -1,0 +1,14 @@
+{
+  "user": {
+    "email": "afgomezvonline@gmail.com",
+    "password": "123456"
+  },
+  "juridical": {
+    "companyName": "123456",
+    "nit": "75499",
+    "telephone": "+57 350 2076277",
+    "email": "jagoman21@hotmail.com",
+    "password": "456789",
+    "confirmPassword": "456789"
+  }
+}
